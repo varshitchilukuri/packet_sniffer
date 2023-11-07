@@ -20,7 +20,7 @@ pip install scapy
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/varshitchilukuri/packet_sniffer.git
    ```
 
 2. Navigate to the project directory:
@@ -34,8 +34,6 @@ pip install scapy
    ```shell
    sudo python packet_sniffer.py
    ```
-
-Replace `varshitchilukuri/packet_sniffer` with the actual GitHub repository URL where you have hosted this project.
 
 ## Functionality
 
